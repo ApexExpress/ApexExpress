@@ -13,7 +13,7 @@ Issues come and go while the main stream argues what they argue
 I am here to learn everyday I feel better when I eat good food
 with people I care about generally I live a humble lifestyle
 
-### Qaulity Assurance
+### Qaulity Assurance 🍊
 
 Additionally when I am not writing online I enjoy
 photograhy artwork food and finding new services/apps
@@ -23,4 +23,4 @@ while configuring easy solutions that match
 the projected DATA model
 
 
-### Beyond The Viewport
+### Beyond The Viewport 
