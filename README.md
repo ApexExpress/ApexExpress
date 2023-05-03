@@ -1,33 +1,26 @@
-### Hi there 👋
+## Hi there 👋
 
 Welcome to my profile page 
+I am currently learning how to spread my wings and fly ...
+Creating a better life for myself through software.
 
-I am currently learning how to spread my wings and fly
-creating a better life for myself through software
 I would also like to learn about new software
-that helps aid development for support for the client
+that helps aid development for support for the client.
+Experience is important satisfaction is the result
+the final product at delievery spot
 
-client software was free and open source
-community of developer working on the project
+Issues come and go while the main stream argues what they argue
+I am here to learn everyday I feel better when I eat good food
+with people I care about generally I live a humble lifestyle
 
-updates pending ... read on [ github.com/apexexpress ]
-
-
-### Beyond The Viewport
-
-Learning Linux Operating Systems
-
-tools/ventoy -> firmware tool
-tools/USB    -> format partition types
-
-Pushing for better mechanics
-
-windows12 -> customization
-windows11 -> windowing function
-
-Testing what is new to market
+### Qaulity Assurance
 
 Additionally when I am not writing online I enjoy
 photograhy artwork food and finding new services/apps
 
-use tools not interested in every single byte
+On the job training for development issues
+while configuring easy solutions that match
+the projected DATA model
+
+
+### Beyond The Viewport
