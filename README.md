@@ -18,7 +18,7 @@ with people I care about generally I live a humble lifestyle.
 
 ### Qaulity / Productivity 🍊
 
-Starting from the ground up with the truth about cretion and creating
+Starting from the ground up with the truth about creation and creating
 life in general needs extra attention to the details of the sed research quality over quantity better changes over time.
 
 
