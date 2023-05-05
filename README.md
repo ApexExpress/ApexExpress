@@ -1,76 +1,68 @@
-## Hi there 👋
 ## Welcome
 
-Welcome to my profile page
-I am currently learning how to spread my wings and fly ...
-Creating a better life for myself through software.
+Thanks for checking out the profile. Here you will find more information about myself
+and the projects I work on via #Github. Additionally you can support by liking the content
+or if you must pay it forwards my support links are listed in the bio.
 
-I would also like to learn about new software
-that helps aid development for support for the client.
-Experience is important satisfaction is the result.
-the final product at delievery spot.
+A little byte about myself Im getting older
+I still have a vision still find the dream to be alive.
 
-## Notes about 🪙
+still struggle but I am gaining ground everyday I use 
+Github and furthure down the road i see the map materializing
+into my hands and I know were I am at in the universe.
 
-Issues come and go while the main stream argues what they argue.
-I am here to learn everyday I feel better when I eat good food -
-with people I care about generally I live a humble lifestyle.
+My name Cody Bunnell ( ApexExpress )
 
-### Qaulity / Productivity 🍊
+I write online during that time I am also persuing
+a certification of IT packed with setup installers
 
-Starting from the ground up with the truth about creation and creating
-life in general needs extra attention to the details of the sed research quality over quantity better changes over time.
+by using github writers can write without feeling trapped
+while using github you can patch your work if need be
+there are other features like code pilot which helps aid
+the developer in writing source code properly.
+
+## Projections
+
+This project was made possible by viewers like yourself.
+
+The project "[ Open Workspace 1.0 ]" is about finding a better
+stance in life by taking the time and show proof of work
+about concepts and understandings about the principles and methods
+used in conjuction with mathematics and other scientific fact
+
+version 1.0 -- build a prototype
+
+A first version will be built and then re factored for what is needed.
+The second version and versions after that will be logged and catalogged
+into the system for by which the user can view and see the information 
+provided here-in.
+
+* An Open Source Closed Team
+
+ + Apache 2.0
+  + version: 1
+  + Cody Bunnell ( Apex Express)
+  + Developer & Designer
+
+  Credits :: Notes
+  
+  Any credits for work would be greatly appreciated and with time we will see.
+  Support links can be found via the internet located on my profile at:
+  
+  goto: URL -> github.com/apexexpress
+  
+  ===
+  + +
+  ===
+  
+  Contact :|: Communication
+  
+  Please use discresion when contacting me as I might be sleeping
+  Not to worry I will get back to you as soon as possible with the details
+  or answer to your question just let me know why you are contacting me.
+  
+  Reserved Terms Policy Cookies GDPR copyright 
+  
+  ~ Beyond The Viewport 2023
 
 
-### Training / Development Research 🌴
-
-In search of on the job training IT or backend domain developer.
-DATA(Human) Training is about using the tools and understanding I/O
-the developer is to develop understanding about the I/O environment
-such as the tools being operated while constructing the project.
-
-### Beyond The Viewport 🍷
-
-Building node/express.js (SPA) web 3.0 application see my profile.
-
-I am working on building a node application for the web, working with
-tools can be a challenge and so you must act in the correct manner.
-such as learning to type you must find good posture when learning.
-
-## Security
-
-Tokens for controlling API access and authentication
-
-token list: $> https(www.example.com/services/token)
-
-Token authentication(auth token)
-Token swap access(auth token token)
-Token authentication(revoke token)
-
-## Policy
-
-Applicable by law if used outside scope
-The scope of development and research/testing 
-to provide access to a result for POW proof of work
-framework and generation to create power
-
-## Terms
-
-USE AS IS Terms and conditions apply to any users
-outside of test network
-
-AS IS licence only good if you accept the terms and conditions
-
-## Cookies -
-
-I use cookies to upgrade your experience.
-
-## Credits
-
-<Reserved> <service> <ID>
-
-INFORMATION ABOUT PROJECT
-
-Date: Thursday, May 4, 2023
-
-"Artwork" Created by Cody Bunnell 
