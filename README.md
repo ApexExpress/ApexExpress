@@ -60,10 +60,6 @@ provided here-in.
   
   goto: URL -> github.com/apexexpress
   
-  =========
-  + + + I/O
-  =========
-  
   Contact :|: Communication
   
   Please use discresion when contacting me as I might be sleeping
