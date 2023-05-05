@@ -10,7 +10,7 @@ by liking the content or if you must pay it forwards my support links are listed
 A little byte about myself Im getting older.
 I still have a vision still find the dream to be alive.
 I write online during that time I am also persuing
-a certification of IT packed with setup installers
+a certification of IT packed with setup installers.
 
 still struggle but I am gaining ground everyday. 
 I use Github and further along the way the map materializing
