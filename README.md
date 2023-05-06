@@ -24,6 +24,19 @@ by using github writers can write without feeling trapped.
 while using github you can patch your work if need be --
 there are other features like code pilot which helps aid,
 the developer in writing source code properly.
+## Required
+
+Work is required in life to obtain and keep wealth.
+
++ Manual labor skill type is required.
+
+To mean IT service worker defined as IT service worker
+collects DATA from local on site transfer possibly USB
+NAS or other external unit.
+
++ unit a device used for DATA storage --privacy
++ NAS network attached storage --support
++ Various USB remotes special USB-keyfob --optional
 
 ## Not Required
 
@@ -42,6 +55,8 @@ about concepts and understandings about the principles and methods,
 used in conjuction with mathematics and other scientific facts.
 
 version 1.0 -- build a prototype
+
+## Prototyper build
 
 A first version will be built and then re factored for what is needed.
 The second version and versions after that will be logged and catalogged --
