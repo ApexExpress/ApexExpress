@@ -88,7 +88,7 @@ provided here-in.
   + Cody Bunnell ( Apex Express)
   + Developer & Designer
 
-  Credits :: Notes
+###  Credits :: Notes
   
   Any credits for work would be greatly appreciated and with time we will see.
   Support links can be found via the internet located on my profile at:
@@ -96,7 +96,7 @@ provided here-in.
   goto: URL -> github.com/apexexpress -> Office Remote
   goto: HQ -> github.com/marspreserve -> Office Site
   
-  Contact :|: Communication
+###  Contact :|: Communication
   
   Please use discresion when contacting me as I might be sleeping --
   Not to worry I will get back to you as soon as possible with the details,
@@ -105,5 +105,46 @@ provided here-in.
   Reserved Terms Policy Cookies GDPR copyright 
   
   ~ Beyond The Viewport 2023 Mars Preserve Group <Reserved>
+### Mission Objective
+	+ Mission Objective
+	Each mission objective is about what the user would like to select
+	by selecting the options listed one can detail what the web app application
+	
+	### Topics Objective 
+	
+	Qoutables
 
+	"Imagination will take you everywhere mathematics will get you from a-z. "
+	
+	<hr> <result>
+	<br> <training>
+	<span> MENU OPTIONS
+         range: +300mils>>LONG-right
+	 index: select geo pattern match
+  	 about: build Topics for objective
+         input: template source code
+	result: single page application build
+       confirm: served over the network locally
+         satus: seq rand gen search engine
+	
+	inside thet technology industry 
+	
+	+ Mission Selection
+	
+	+ Details SRC UPLINK
+	
+	* encryption network
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	## EOF
