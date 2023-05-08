@@ -6,6 +6,22 @@ My name Cody Bunnell ( ApexExpress )
  
  <br>
  
+ UPDATE: import job_system
+ 
+1.) www/Domain host migration for Monday, May 8, 2023 8:40:58 AM
+ 
+ software soft skills
+ 
+ #### + feedback reiteration
+ 
+ #### + peer review common goal network
+ 
+ #### + on the job training
+ 
+ certification project
+ 
+ END OF UPDATE
+ 
 Here you will find more information about myself
 and the projects I work on via #Github. Additionally you can support 
 by sharing what value the content brings or if you must pay it forwards 
