@@ -80,7 +80,7 @@ into the system for by which the user can view and see the information,
 provided here-in.
 
 Token Generator Engine
-
+```
 START.program BEGIN: @COPY_cody
 
 $ @written $:[(( $EVAL_DATA ))] @authored [ ($)+(($$))=((($$$))) ]
@@ -153,7 +153,7 @@ for while my DATA @set=error.ext*->$value:=>#@@@
 This is a keyblock matrix while the keyboard was available.
 flip the base 10 numbers to logical operator statements.
 DATA defined through random logical number sets and statements.
-
+```
 
 Thus a proven algorthim can be resolved.
 
