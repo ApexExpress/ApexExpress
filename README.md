@@ -126,8 +126,7 @@ for while my DATA @set=error.ext*->$value:=>#@@@
         Represent Verification Inside
         Block Controller For While Service
         
-        
-        ! == Declaration Statement 
+        ! == Declaration.str
         @ == Id Command
         # == ctrl comment
         $ == Keyvalue.Obj
@@ -162,12 +161,12 @@ Thus a proven algorthim can be resolved.
 * Generally Innovative
 * An Open Source Closed Team
 
-  + Apache 2.0
-  + version: 1
+  + Apache 2.0 ( optional )
+  + version: 1.0
   + Cody Bunnell ( Apex Express)
   + Developer & Designer
 
-###  Credits :: Notes
+###  Credits :: Notes work from home
   
   Any credits for work would be greatly appreciated and with time we will see.
   Support links can be found via the internet located on my profile at:
