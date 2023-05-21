@@ -184,10 +184,11 @@ To be resolved later.
   Reserved Terms Policy Cookies GDPR copyright 
   
   ~ Beyond The Viewport 2023 Mars Preserve Group <Reserved>
-### Mission Objective
+
+	### Online Objective
 	
-	+ Mission Objective
-	Each mission objective is about what the user would like to select
-	by selecting the options listed one can detail what the web app application
+	+ Online Objective
+	
+	To create a safe working enviornment. To find a great career with people I care about.
 	
 	## EOF
