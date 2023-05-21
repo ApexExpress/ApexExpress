@@ -126,16 +126,16 @@ for while my DATA @set=error.ext*->$value:=>#@@@
         Represent Verification Inside
         Block Controller For While Service
         
-        ! == Declaration.str
-        @ == Id Command
-        # == ctrl comment
-        $ == Keyvalue.Obj
+        ! == Declare.Str
+        @ == Id.Command
+        # == Ctrl.Comment
+        $ == Keyvalue.Objective
         % == Split.Value
         ^ == Peek.Window
-        & == Routine.Ext*(Runtime)
+        & == Routine.Ext*
         * == Permission.Ext
-        ( == open Parenthesis
-        ) == Closed Statement
+        ( == Open.Paren
+        ) == Close.Paren
 
 '~:[!@$%^&*()]'
 '! @ # $ % ^&  * ( !)'
@@ -155,6 +155,7 @@ DATA defined through random logical number sets and statements.
 ```
 
 Thus a proven algorthim can be resolved.
+To be resolved later.
 
 ## Notes
 
