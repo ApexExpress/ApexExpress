@@ -1,121 +1,61 @@
 ## Welcome
 
-My name Cody Bunnell ( ApexExpress )
+Hello, my name is Cody Bunnell (ApexExpress). Thank you for visiting my profile.
 
- Thanks for checking out the profile. 
- 
- <br>
- 
- UPDATE: import job_system
- 
-1.) www/Domain host migration for Monday, May 8, 2023 8:40:58 AM
- 
- software soft skills
- 
- #### + feedback reiteration
- 
- #### + peer review common goal network
- 
- #### + on the job training
- 
- certification project
- 
- END OF UPDATE
- 
-Here you will find more information about myself
-and the projects I work on via #Github. Additionally you can support 
-by sharing what value the content brings or if you must pay it forwards 
-my support links are listed in the bio/chat->connect.
+Here you will find more information about myself and the projects I work on via #Github. If you find value in the content, I appreciate your support by sharing it. If you would like to connect with me, you can find my support links in the bio/chat.
 
-A little byte about myself Im getting older.
-I still have a vision still find the dream to be alive.
-I write online during that time I am also persuing
-a certification of IT packed with setup installers.
+A little bit about myself: I am getting older, but I still have a vision and find the dream of life to be alive. I write online while pursuing an IT certification and working on setup installers.
 
-still struggle but I am gaining ground everyday. 
-I use Github and further along the way the map materializing,
-into my hands and I know were I am at in the universe.
+I still face challenges, but I am making progress every day. I use Github as a platform to write without feeling restricted. With Github, I can make improvements to my work if needed. Additionally, Github provides features like code pilot, which helps developers write source code more effectively.
 
-by using github writers can write without feeling trapped.
-while using github you can patch your work if need be --
-there are other features like code pilot which helps aid,
-the developer in writing source code properly.
 ## Required
 
-Work is required in life to obtain and keep wealth.
+In life, work is necessary to attain and maintain wealth.
 
-+ Manual labor skill type is required.
-
-To mean IT service worker defined as IT service worker
-collects DATA from local on site transfer possibly USB
-NAS or other external unit.
-
-+ unit a device used for DATA storage --privacy
-+ NAS network attached storage --support
-+ Various USB remotes special USB-keyfob --optional
+- Manual labor skills are essential.
+- An IT service worker, for instance, collects data from local sites and transfers it using USB, NAS, or other external storage devices.
+- Units, such as USB keyfobs, can be used for data storage and privacy.
+- NAS (network-attached storage) provides support for data storage.
 
 ## Not Required
 
-My work here on Github is all optional and not required.
-Writing is a hobby and a passion I have to build a vision --
-of a corp/inc agriculture group to grow for the local,
-economy with that being localizaed to each startup.
+My work on Github is optional and not mandatory. Writing is both a hobby and a passion for me. I aim to build a vision of a corporate/ins agriculture group that contributes to the local economy through localized startup projects.
 
 ## Projections
 
-This project was made possible by viewers like yourself.
+This project, "[Open Workspace 1.0]", aims to create the "[Mars Preserve]". It seeks to achieve a better position in life by demonstrating concepts, principles, methods, and the application of mathematics and other scientific facts.
 
-The project "[ Open Workspace 1.0 ]" is about creating "[ Mars Preserve ]" 
-finding a better stance in life by taking the time and show proof of work --
-about concepts and understandings about the principles and methods,
-used in conjuction with mathematics and other scientific facts.
+Version 1.0 will be a prototype build. Subsequent versions will be documented and cataloged, allowing users to access the information provided.
 
-version 1.0 -- build a prototype
+Token Generator Engine:
 
-## Prototyper build
-
-A first version will be built and then re factored for what is needed.
-The second version and versions after that will be logged and catalogged --
-into the system for by which the user can view and see the information,
-provided here-in.
-
-Token Generator Engine
-
-Thus a proven algorthim can be resolved.
-To be resolved later.
+A proven algorithm will be developed and implemented at a later stage.
 
 ## Notes
 
-* Generally Innovative
-* An Open Source Closed Team
+- Generally Innovative
+- An Open Source Closed Team
+- Apache 2.0 (optional)
+- Version: 1.0
+- Cody Bunnell (Apex Express)
+- Developer & Designer
 
-  + Apache 2.0 ( optional )
-  + version: 1.0
-  + Cody Bunnell ( Apex Express)
-  + Developer & Designer
+### Credits :: Notes Work from Home
 
-###  Credits :: Notes work from home
-  
-  Any credits for work would be greatly appreciated and with time we will see.
-  Support links can be found via the internet located on my profile at:
-  
-  goto: URL -> github.com/apexexpress -> Office Remote
-  goto: HQ -> github.com/marspreserve -> Office Site
-  
-###  Contact :|: Communication
-  
-  Please use discresion when contacting me as I might be sleeping --
-  Not to worry I will get back to you as soon as possible with the details,
-  or answer to your question just let me know why you are contacting me.
-  
-  Reserved Terms Policy Cookies GDPR copyright 
-  
-  ~ Beyond The Viewport 2023 Mars Preserve Group <Reserved>
+Any credits for the work would be greatly appreciated. Support links can be found on my profile at:
 
-	### Online Objective
-	
-	+ Online Objective
-	
-	To create a safe working enviornment. To find a great career with people I care about.
-	
-	## EOF
+- Github: github.com/apexexpress -> Office Remote
+- Headquarters: github.com/marspreserve -> Office Site
+
+### Contact :|: Communication
+
+Please use discretion when contacting me, as I may not be available immediately. I will respond to your questions or provide details as soon as possible. Please let me know the purpose of your contact.
+
+Reserved Terms Policy Cookies GDPR copyright
+
+~ Beyond The Viewport 2023 Mars Preserve Group <Reserved>
+
+### Online Objective
+
+- To create a safe working environment.
+- To find a great career with people I care about.
