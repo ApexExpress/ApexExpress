@@ -1,7 +1,5 @@
-🚀 Welcome to ApexExpress: Where Innovation Takes Flight!
-
 👋 About Me
-I'm [CJ], a passionate developer and creative mind on a mission to transform ideas into reality. Explore my portfolio on GitHub, where the magic of code and creativity collide.
+I'm [CJ], a Diyer /domain developer and creative mind on a mission to transform ideas into reality. Explore my portfolio on GitHub, where the magic of code and creativity collide.
 
 🤝 Collaboration
 Embarking on a journey together? Count me in! I thrive on teamwork and turning dreams into tangible projects. Just give me a heads-up, and we'll make sure your project soars to new heights.
