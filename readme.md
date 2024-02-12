@@ -1,5 +1,8 @@
 # Welcome
 
+<h1 align="center">Hi 👋, I'm CJ</h1>
+<h3 align="center">A passionate frontend developer from United States</h3>
+
 How can I help you today ?
 
 24/7 chat support ( joking )
@@ -30,9 +33,6 @@ I can help you with your project if you need a human
 ## Source Code
 Credits: Apex Express
 <reserved> All rights reserved 2024 Apex Express
-
-<h1 align="center">Hi 👋, I'm CJ</h1>
-<h3 align="center">A passionate frontend developer from United States</h3>
 
 - 🔭 I’m currently working on [FTL](github.com/Apexexpress/FTL)
 
