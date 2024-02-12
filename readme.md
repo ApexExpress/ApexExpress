@@ -4,10 +4,9 @@ How can I help you today ?
 
 24/7 chat support ( joking )
 
-+ software debugging
-+ software learning model
-+ software source code
-
++ software support
++ software demos
+  
 # Remote Workspace
 I can help you with your project if you need a human
   * Reading
