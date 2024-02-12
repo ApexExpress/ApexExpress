@@ -1,7 +1,7 @@
 # Welcome
 
 <h1 align="center">Hi 👋, I'm CJ</h1>
-<h3 align="center">A passionate frontend developer from United States</h3>
+<h3 align="center">A passionate frontend developer from Colorado United States</h3>
 
 How can I help you today ?
 
