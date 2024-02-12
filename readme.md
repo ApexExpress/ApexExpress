@@ -62,6 +62,34 @@ Credits: Apex Express
 <p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
 
+
+
+## Open Source
+
+MIT CC CS CA Open Source 2024
+
+## Networking
+
++ ongoing support{ ... };
++ support_ch     { ... };
++ service_code   { ... };
++ stack_api      { ... };
+* peaceful workspace
+* good employment
+* greatness with friends
++ create options
+   
+## Options / Details
+
+Please email me the details for more information I will write you back send subject to
+opencode411 @ gmail com
+
+## POV
+
+I am an independent from Colorado. I get along with people so be it they are not being idiots.
+
+## 
+
 ```
 made with care.
 ```
