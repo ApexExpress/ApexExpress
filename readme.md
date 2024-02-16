@@ -3,9 +3,8 @@
 <h1 align="center">Hi 👋, I'm CJ</h1>
 <h3 align="center">A passionate frontend developer from Colorado United States</h3>
 
-How can I help you today ?
-
-24/7 chat support ( joking )
+## How can I help you today ?
+## 24/7 chat support ( joking )
 
 + software support
 + software demos
