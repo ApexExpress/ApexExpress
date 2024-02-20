@@ -4,17 +4,22 @@
 <h3 align="center">A passionate frontend developer from Colorado United States</h3>
 
 ## How can I help you today ?
-## 24/7 chat support ( marketing )
+I can do various job roles
 
-+ software support
+## What difference can I make ?
+
++ IT Support Staff
++ Software Support Role
++ Other Various Job Duty
 
 ## Source Code
 Credits: Apex Express
-<reserved> All rights reserved 2024 Apex Express
+<reserved> All rights reserved 2024
+<content> Apex Express ©
 
 - 🔭 I’m currently working on [FTL](github.com/Apexexpress/FTL)
 
-- 🌱 I’m currently learning **Any Open Source**
+- 🌱 I’m currently learning **Open Source**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
@@ -24,7 +29,7 @@ Credits: Apex Express
 
 - 📝 I regularly write articles on [medium.com/codybunnnell](medium.com/codybunnnell)
 
-- 💬 Ask me about **react, vue js**
+- 💬 Ask me about **skatebaording**
 
 - 📫 How to reach me **opencode411@gmail.com**
 
