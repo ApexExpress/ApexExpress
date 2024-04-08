@@ -25,7 +25,7 @@
 
 ## How can I help you today ?
 
-I can do various job roles
+I can do various job roles and I would like to work on projects online.
 
 ## What difference can I make in the role of
 
