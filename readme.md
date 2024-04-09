@@ -1,6 +1,6 @@
 # Welcome
 
-<h1 align="center">Hi 👋, I'm Cody James better known as CJ </h1>
+<h1 align="center">Hi 👋, I'm Cody James </h1>
 <h3 align="center">A passionate domain developer located online</h3>
 
 - 🔭 I’m currently working on [FTL](github.com/Apexexpress/FTL)
