@@ -14,7 +14,6 @@
 - 📝 I regularly write articles on [medium.com/codybunnnell](medium.com/codybunnnell)
 - 💬 Ask me about **skatebaording** & **Programming**
 
-- 📫 How to reach me **opencode411 gmail **
 - ⚡ Fun fact **I code better without music.**
 
 <h3 align="left">Connect with me: if desired </h3>
